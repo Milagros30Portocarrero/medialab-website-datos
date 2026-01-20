@@ -17,4 +17,3 @@ python src/scrape_python_blog.py
 python src/process_posts.py
 
 Website: publicado con GitHub Pages en /docs.
-<img width="1783" height="678" alt="image" src="https://github.com/user-attachments/assets/7cf2ce07-4f34-411d-b454-a70048e14d10" />
